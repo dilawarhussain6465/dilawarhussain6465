@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dilawar Hussain 👋</h1>
+<h3 align="center">Unity Game Developer | FantazyGamers</h3>
 
-<!--
-**dilawarhussain6465/dilawarhussain6465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/yourusername">GitHub</a> •
+  <a href="https://www.linkedin.com">LinkedIn</a> •
+  <a href="mailto:dilawarhussain6465@gmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎮 4+ years of Unity Game Development
+- 🕹 Fighting, Racing, Hyper-Casual & Multiplayer Games
+- 🧠 Clean Architecture & Scalable Systems
+- 🛠 Unity, C#, Photon, Fusion, AdMob, IAPs
+
+---
+
+## 🧩 Featured Projects
+| Project | Description |
+|-------|------------|
+| Unity UI Architecture | Scalable UI system for any game |
+| Weapon System | Modular RPG weapon framework |
+| Enemy AI Base | Extendable AI architecture |
+
+---
+
+## 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" />
+</p>
+
+---
+
+## 📫 Contact
+📧 Email: **dilawarhussain6465@gmail.com**  
+🌐 Studio: **FantazyGamers**
