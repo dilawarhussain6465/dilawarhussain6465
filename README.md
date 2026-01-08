@@ -1,18 +1,16 @@
-# 👋 Unity Game Developer & Interactive Systems Engineer
+# Unity Game Developer & Interactive Systems Engineer
 
 **Building scalable, performance-driven games and gameplay systems in Unity**  
 Professional Unity developer with **5+ years of experience** delivering production-ready gameplay systems, modular architectures, and clean, maintainable code.
 
----
-
-## 💼 About Me
+## About Me
 
 I am a professional Unity developer focusing on **gameplay systems, architecture, and performance optimization**.  
 I approach game development as an **engineering discipline**, building **reusable frameworks** rather than one-off features.  
 
 From early prototypes to full production, I ensure **scalable systems and clean code** that teams can maintain over time.
 
----
+
 
 ## 🛠 Core Expertise
 
@@ -23,7 +21,6 @@ From early prototypes to full production, I ensure **scalable systems and clean 
 | State Machines & Scriptable Objects | Production-Ready Unity Projects |
 | Animation & Controller Systems | Documentation & Team Collaboration |
 
----
 
 ## ⚡ Technical Stack
 
