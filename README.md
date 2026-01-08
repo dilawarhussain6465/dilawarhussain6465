@@ -1,110 +1,228 @@
-# Unity Game Developer & Interactive Systems Engineer
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #0f172a;
+    --muted: #475569;
+    --line: #e5e7eb;
+    --accent: #2563eb;
+  }
 
-Building scalable, performance-driven games and gameplay systems in Unity —  
-from early prototypes to production-ready releases.
+  body {
+    margin: 0;
+    padding: 0;
+  }
 
----
+  .container {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 48px 32px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                 Inter, Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+  }
 
-## About the Developer
+  h1 {
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+  }
 
-I am a professional Unity game developer with 5+ years of hands-on experience
-designing, engineering, and shipping interactive game systems.
+  h2 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 0 0 16px 0;
+  }
 
-My work focuses on building **clean, maintainable, and scalable gameplay
-architectures** that perform well across mobile and desktop platforms.
-I approach game development with an engineering mindset — prioritizing structure,
-performance, and long-term extensibility over quick hacks.
+  h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
 
-From concept to production, I design systems that teams can grow with.
+  p {
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--muted);
+    margin: 0 0 16px 0;
+  }
 
----
+  .subtitle {
+    font-size: 18px;
+    color: var(--muted);
+    margin-bottom: 40px;
+  }
 
-## Core Expertise
+  .divider {
+    border-top: 1px solid var(--line);
+    margin: 48px 0;
+  }
 
-- Gameplay programming & systems design  
-- Modular and scalable Unity architectures  
-- Player, combat, AI, and state-driven systems  
-- Performance optimization for real-time gameplay  
-- Production-ready Unity workflows  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
 
----
+  ul {
+    padding-left: 18px;
+    margin: 0;
+  }
 
-## Technical Stack
+  li {
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
 
-**Engines & Languages**
-- Unity (3D / Mobile / PC)
-- C#
+  .section-title {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin-bottom: 12px;
+  }
 
-**Systems & Technologies**
-- Gameplay state machines
-- Data-driven systems
-- Scriptable Object architectures
-- Animation & controller systems
-- Save / load & persistence systems
+  .tag-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
 
-**Production Tools**
-- Git (feature-branch workflows)
-- Modular project structuring
-- Performance profiling & optimization
+  .tag {
+    font-size: 13px;
+    padding: 6px 10px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    color: var(--muted);
+  }
 
----
+  @media (max-width: 760px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
 
-## Development Philosophy
+<div class="container">
 
-I don’t just build features — I build systems.
+  <!-- HEADER -->
+  <h1>Unity Game Developer</h1>
+  <div class="subtitle">
+    Interactive Systems Engineer · Gameplay · Architecture · Performance
+  </div>
 
-My focus is on:
-- Clean code with clear responsibility boundaries  
-- Scalable architectures that survive production growth  
-- Performance-aware design decisions  
-- Reusable frameworks instead of one-off solutions  
+  <p>
+    I build scalable, performance-driven game systems in Unity, focusing on
+    clean architecture, long-term maintainability, and production-ready design.
+    My work spans the full development lifecycle — from early prototypes to
+    shipped gameplay systems.
+  </p>
 
-Every system is designed to be readable, testable, and extendable.
+  <div class="divider"></div>
 
----
+  <!-- ABOUT -->
+  <div class="section-title">About</div>
+  <p>
+    With 5+ years of professional Unity development experience, I approach game
+    development as an engineering discipline. I focus on structured gameplay
+    systems, clear separation of responsibilities, and architectures that scale
+    with growing production demands.
+  </p>
 
-## Systems & Architecture
+  <div class="divider"></div>
 
-Strong emphasis on engineering-grade game systems, including:
-- Modular gameplay frameworks  
-- Reusable combat and ability systems  
-- Extendable weapon and character architectures  
-- Clean separation between logic, data, and presentation  
-- Production-friendly Unity project organization  
+  <!-- EXPERTISE -->
+  <div class="section-title">Core Expertise</div>
+  <div class="grid">
+    <ul>
+      <li>Gameplay systems & state-driven architecture</li>
+      <li>Player, combat, AI, and interaction systems</li>
+      <li>Performance-focused real-time programming</li>
+      <li>Modular and reusable Unity frameworks</li>
+    </ul>
+    <ul>
+      <li>Production-grade Unity project structure</li>
+      <li>Clean, maintainable C# codebases</li>
+      <li>Mobile & PC optimization strategies</li>
+      <li>Scalable system design for teams</li>
+    </ul>
+  </div>
 
-This approach allows teams to iterate faster without accumulating technical debt.
+  <div class="divider"></div>
 
----
+  <!-- TECH STACK -->
+  <div class="section-title">Technology Stack</div>
+  <div class="tag-row">
+    <span class="tag">Unity 3D</span>
+    <span class="tag">C#</span>
+    <span class="tag">Gameplay Architecture</span>
+    <span class="tag">State Machines</span>
+    <span class="tag">Scriptable Objects</span>
+    <span class="tag">Animation Systems</span>
+    <span class="tag">Save & Persistence</span>
+    <span class="tag">Performance Profiling</span>
+    <span class="tag">Git Workflows</span>
+  </div>
 
-## Game Genres & Experience
+  <div class="divider"></div>
 
-Experience across multiple game types, including:
-- Fighting & action games  
-- Racing & physics-based gameplay  
-- Hyper-casual and mobile-focused games  
-- RPG-style systems and progression  
-- Single-player and multiplayer foundations  
+  <!-- SYSTEMS -->
+  <div class="section-title">Systems & Architecture</div>
+  <p>
+    Strong focus on engineering-level systems rather than isolated features.
+    I design gameplay frameworks that are modular, extendable, and easy for
+    teams to work with under production pressure.
+  </p>
 
----
+  <ul>
+    <li>Reusable combat and ability systems</li>
+    <li>Weapon, character, and enemy architectures</li>
+    <li>Data-driven gameplay logic</li>
+    <li>Clear separation of logic, data, and presentation</li>
+  </ul>
 
-## Collaboration & Workflow
+  <div class="divider"></div>
 
-Comfortable working both independently and within teams.
+  <!-- EXPERIENCE -->
+  <div class="section-title">Game Genres & Experience</div>
+  <p>
+    Experience across a wide range of game types, from fast-iteration mobile
+    titles to system-heavy core gameplay projects.
+  </p>
 
-- Clear communication with designers and artists  
-- Structured Git workflows for team development  
-- Feature-based development with maintainability in mind  
-- Production-oriented mindset from day one  
+  <div class="tag-row">
+    <span class="tag">Action</span>
+    <span class="tag">Fighting</span>
+    <span class="tag">Racing</span>
+    <span class="tag">Hyper-Casual</span>
+    <span class="tag">RPG Systems</span>
+    <span class="tag">Single Player</span>
+    <span class="tag">Multiplayer Foundations</span>
+  </div>
 
----
+  <div class="divider"></div>
 
-## Professional Services
+  <!-- WORKFLOW -->
+  <div class="section-title">Workflow & Collaboration</div>
+  <ul>
+    <li>Production-first development mindset</li>
+    <li>Clear communication with designers and artists</li>
+    <li>Feature-based Git workflows</li>
+    <li>Clean handoff and documentation practices</li>
+  </ul>
 
-Available for:
-- Unity gameplay programming  
-- Systems & architecture design  
-- Performance optimization  
-- Technical consultation for Unity projects  
-- Freelance and contract-based development  
+  <div class="divider"></div>
 
-Focused on delivering **production-ready, scalable Unity solutions**.
+  <!-- SERVICES -->
+  <div class="section-title">Professional Services</div>
+  <p>
+    Available for freelance and contract-based Unity development, including
+    gameplay programming, system architecture, performance optimization, and
+    technical consultation.
+  </p>
+
+</div>
