@@ -1,38 +1,110 @@
-<h1 align="center">Hi, I'm Dilawar Hussain 👋</h1>
-<h3 align="center">Unity Game Developer | FantazyGamers</h3>
+# Unity Game Developer & Interactive Systems Engineer
 
-<p align="center">
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="https://www.linkedin.com">LinkedIn</a> •
-  <a href="mailto:dilawarhussain6465@gmail.com">Email</a>
-</p>
+Building scalable, performance-driven games and gameplay systems in Unity —  
+from early prototypes to production-ready releases.
 
 ---
 
-## 🚀 About Me
-- 🎮 4+ years of Unity Game Development
-- 🕹 Fighting, Racing, Hyper-Casual & Multiplayer Games
-- 🧠 Clean Architecture & Scalable Systems
-- 🛠 Unity, C#, Photon, Fusion, AdMob, IAPs
+## About the Developer
+
+I am a professional Unity game developer with 5+ years of hands-on experience
+designing, engineering, and shipping interactive game systems.
+
+My work focuses on building **clean, maintainable, and scalable gameplay
+architectures** that perform well across mobile and desktop platforms.
+I approach game development with an engineering mindset — prioritizing structure,
+performance, and long-term extensibility over quick hacks.
+
+From concept to production, I design systems that teams can grow with.
 
 ---
 
-## 🧩 Featured Projects
-| Project | Description |
-|-------|------------|
-| Unity UI Architecture | Scalable UI system for any game |
-| Weapon System | Modular RPG weapon framework |
-| Enemy AI Base | Extendable AI architecture |
+## Core Expertise
+
+- Gameplay programming & systems design  
+- Modular and scalable Unity architectures  
+- Player, combat, AI, and state-driven systems  
+- Performance optimization for real-time gameplay  
+- Production-ready Unity workflows  
 
 ---
 
-## 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" />
-</p>
+## Technical Stack
+
+**Engines & Languages**
+- Unity (3D / Mobile / PC)
+- C#
+
+**Systems & Technologies**
+- Gameplay state machines
+- Data-driven systems
+- Scriptable Object architectures
+- Animation & controller systems
+- Save / load & persistence systems
+
+**Production Tools**
+- Git (feature-branch workflows)
+- Modular project structuring
+- Performance profiling & optimization
 
 ---
 
-## 📫 Contact
-📧 Email: **dilawarhussain6465@gmail.com**  
-🌐 Studio: **FantazyGamers**
+## Development Philosophy
+
+I don’t just build features — I build systems.
+
+My focus is on:
+- Clean code with clear responsibility boundaries  
+- Scalable architectures that survive production growth  
+- Performance-aware design decisions  
+- Reusable frameworks instead of one-off solutions  
+
+Every system is designed to be readable, testable, and extendable.
+
+---
+
+## Systems & Architecture
+
+Strong emphasis on engineering-grade game systems, including:
+- Modular gameplay frameworks  
+- Reusable combat and ability systems  
+- Extendable weapon and character architectures  
+- Clean separation between logic, data, and presentation  
+- Production-friendly Unity project organization  
+
+This approach allows teams to iterate faster without accumulating technical debt.
+
+---
+
+## Game Genres & Experience
+
+Experience across multiple game types, including:
+- Fighting & action games  
+- Racing & physics-based gameplay  
+- Hyper-casual and mobile-focused games  
+- RPG-style systems and progression  
+- Single-player and multiplayer foundations  
+
+---
+
+## Collaboration & Workflow
+
+Comfortable working both independently and within teams.
+
+- Clear communication with designers and artists  
+- Structured Git workflows for team development  
+- Feature-based development with maintainability in mind  
+- Production-oriented mindset from day one  
+
+---
+
+## Professional Services
+
+Available for:
+- Unity gameplay programming  
+- Systems & architecture design  
+- Performance optimization  
+- Technical consultation for Unity projects  
+- Freelance and contract-based development  
+
+Focused on delivering **production-ready, scalable Unity solutions**.
